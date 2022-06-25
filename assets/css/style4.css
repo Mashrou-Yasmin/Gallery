@@ -1,0 +1,59 @@
+.img-item
+{
+    width: 120px;
+    height: 5%;
+    float: left;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+
+.simgs img
+{
+    width: 450px;
+    height: 15%;
+}
+
+
+.img-items
+{
+    width: 120px;
+    height: 5%;
+    float: left;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+
+.simg img
+{
+    width: 450px;
+    height: 20%;
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+.title{margin-bottom:50px; font-size:1.5em;}
+
+.carousel-wrap {padding: 0 4%; width:100%;position: relative;}
+.owl-carousel .item {margin:0 18px 30px 18px;position: relative;box-shadow:6px 14px 15px #111;}
+
+
+.sora 
+{
+    margin-top:-50px !important;
+    margin-left: -35px !important;
+    margin-bottom: -40px !important;
+}
+
